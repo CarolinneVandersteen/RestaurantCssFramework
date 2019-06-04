@@ -1,0 +1,15 @@
+.jumbotron-fluid-bg{
+  background-image: url(images/cocktail1.jpeg);
+}
+.img-resize {
+  width: auto;
+  height: 300px;
+
+}
+body{
+  background-image:url(images/hout.jpeg)
+}
+
+.body-bg {
+  background-image:url(images/hout.jpeg)
+}
